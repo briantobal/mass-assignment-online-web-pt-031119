@@ -4,7 +4,7 @@ class Person(hash)
   def initialize(attributes)     
     if attributes 
       attributes.each do |k,v|
-        self.send 
+        self.send("")
   end     #def 
 
 end
