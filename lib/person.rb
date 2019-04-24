@@ -3,7 +3,7 @@ class Person(hash)
 
   def initialize(attributes)     
     if attributes 
-      attributes
+      attributes.each do ||
   end     #def 
 
 end
