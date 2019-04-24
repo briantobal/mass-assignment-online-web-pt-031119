@@ -3,6 +3,7 @@ class Person(hash)
 
   def initialize(attributes)     
     if attributes 
+      attributes
   end     #def 
 
 end
